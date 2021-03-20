@@ -1,6 +1,6 @@
-## <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Hi there, I'm Hong Jeong Hyeon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hello, I'm Hong Jeong Hyeon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-> - 🏫 I'm a senior at DSM(Daedeok Software Meister High School)
+> - 🏫 I'm a sophomore at DSM(Daedeok Software Meister High School)
 > - ❤ I love **Java**! Other than programming
 > - 🔥 I'm studying **Database** hard!
 
@@ -9,6 +9,8 @@
 
 ![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%84-saddlebrown?style=flat-square&logo=Java&logoColor=white&labelColor=saddlebrown)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%82-yellow?style=flat-square&logo=JavaScript&logoColor=white&labelColor=yellow)
+![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%81-green?style=flat-square&logo=Python&logoColor=white&labelColor=green)
+
 
 <!--**- Framework**  -->
 
