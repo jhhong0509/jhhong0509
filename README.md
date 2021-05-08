@@ -4,6 +4,7 @@
 <!--**- Language**  -->
 
 ![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%84-saddlebrown?style=flat-square&logo=Java&logoColor=white&labelColor=saddlebrown)
+![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=flat-square&logo=MySQL&logoColor=white&labelColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%82-yellow?style=flat-square&logo=JavaScript&logoColor=white&labelColor=yellow)
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%81-green?style=flat-square&logo=Python&logoColor=white&labelColor=green)
 
